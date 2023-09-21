@@ -13,7 +13,7 @@
 * Corn tortillas, steamed or pan-heated through until pliable.
 
 1. Smear tortilla with crema and then salsa.
-2. Tong 2-3 oz of  [fat-poached carnitas] and spread it out.
+2. Tong 1-2 oz of  [fat-poached carnitas] and spread it out.
 3. Top carnitas with [charred corn] and [onions and cilantro].
 4. Sprinkle with cotija.
 5. Nestle chicharrone on the top like a shark fin.
