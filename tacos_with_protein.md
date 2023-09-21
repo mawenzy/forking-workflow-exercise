@@ -3,7 +3,7 @@
 This is a modification of the original coderefinery taco recipe to include more protein.
 
 - Roast cauliflower (optional)
-- Beyond meat
+- Smoked tofu
 - Pickled chilis and vegetables
 - Caramelized red onions
 - Guacamole
@@ -11,3 +11,4 @@ This is a modification of the original coderefinery taco recipe to include more 
 - Tortilla of choice, warmed in a dry pan
 - Pinto beans (necessary for each taco imo)
 - Kidney beans
+
