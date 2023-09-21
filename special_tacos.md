@@ -1,4 +1,4 @@
-Salmon tacos with avocado and mango salsa
+Special salmon tacos with avocado and mango salsa
 =================
 
 This taco is the ultimate blend of salt and sweet with some spiciness.
