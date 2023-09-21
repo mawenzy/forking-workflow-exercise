@@ -10,3 +10,5 @@ This is a modification of the original coderefinery taco recipe to include more 
 - Yogurt
 - Tortilla of choice, warmed in a dry pan
 - Pinto beans (necessary for each taco imo)
+- Kidney beans
+- Black beans
